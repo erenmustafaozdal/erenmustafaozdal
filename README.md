@@ -33,3 +33,5 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=erenmustafaozdal&show_icons=true&locale=en" alt="erenmustafaozdal" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=erenmustafaozdal&" alt="erenmustafaozdal" /></p>
+
+![snake gif](https://github.com/erenmustafaozdal/erenmustafaozdal/blob/output/github-contribution-grid-snake.gif)

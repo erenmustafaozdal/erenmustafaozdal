@@ -4,7 +4,7 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
 
 <!-- ![MasterHead](https://i.ibb.co/tCRC9mV/OIG2.jpg) -->
 <h1 align="center">Hi 👋, I'm Eren Mustafa Özdal</h1>
-<h3 align="center">A passionate frontend developer from Türkiye</h3>
+<h3 align="center">A passionate full stack developer from Türkiye</h3>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=erenmustafaozdal&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 

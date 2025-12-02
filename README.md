@@ -24,12 +24,12 @@ https://rahuldkjain.github.io/gh-profile-readme-generator
 - ⚡ Eğlenceli gerçek: **“Hem sınıf öğretmeni hem full-stack geliştirici olmanın garip ama güzel bir dengesi var.”**
 
 <h3 align="left">Kullandığım Araçlar ve Diller:</h3>
-<table width="100%"  >
+<table style="width:100%">
   <thead>
     <tr border="none">
-      <th width="20%" >Programlama Dilleri</th>
-      <th width="20%" >Backend Geliştirme</th>
-      <th width="20%" >Frontend Geliştirme</th>
+      <th>Programlama Dilleri</th>
+      <th>Backend Geliştirme</th>
+      <th>Frontend Geliştirme</th>
     </tr>
   </thead>
   <tbody>
@@ -42,7 +42,6 @@ https://rahuldkjain.github.io/gh-profile-readme-generator
       <td align="center">
         <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel" title="laravel"  />
         <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux" title="linux"  />
-        <img src="https://images.seeklogo.com/logo-png/31/1/apache-logo-png_seeklogo-314278.png" height="40" alt="apache" title="apache"  />
         <img src="https://skillicons.dev/icons?i=nginx" height="40" alt="nginx" title="nginx"  />
         <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs" title="nodejs"  />
       </td>
@@ -54,13 +53,13 @@ https://rahuldkjain.github.io/gh-profile-readme-generator
     </tr>
   </tbody>
 </table>
-<table width="100%"  >
+<table style="width:100%">
   <thead>
     <tr border="none">
-      <th width="25%" >Mobil Uygulama Geliştirme</th>
-      <th width="25%" >Veritabanı</th>
-      <th width="25%" >Diğer Araçlar</th>
-      <th width="25%" >Uygulamalar</th>
+      <th>Mobil Uygulama Geliştirme</th>
+      <th>Veritabanı</th>
+      <th>Diğer Araçlar</th>
+      <th>Uygulamalar</th>
     </tr>
   </thead>
   <tbody>
@@ -93,7 +92,7 @@ https://rahuldkjain.github.io/gh-profile-readme-generator
 
 <h3 align="left">GitHub İstatistiklerim</h3>
 
-<table>
+<table style="width:100%">
   <tbody>
     <tr border="none">
       <td width="50%" align="center">

@@ -17,10 +17,10 @@ https://rahuldkjain.github.io/gh-profile-readme-generator
 - 🔭 Üzerinde çalıştığım proje: **Matematik Ormanı (Math Forest)**
 - 🌱 Öğrenmeye devam ettiklerim: **React Native, IoT sensör verisi işleme**
 - 👯 Şu konularda iş birliğine açığım: **Eğitim Teknolojileri, oyun tabanlı öğrenme ve çocuklarda okuma alışkanlığını artıran uygulamalar**
-- 👨‍💻 Tüm projelerim burada: [emozdal.com](https://emozdal.com) (yakında)
+- 👨‍💻 Tüm projelerim burada: [emozdal.com](https://emozdal.com)
 - 💬 Bana şu konularda sorabilirsiniz: **PHP, Laravel, Filament PHP, Python, Bot Geliştirme**
 - 📫 Bana şu e-posta adresinden ulaşabilirsiniz: **eren.060737@gmail.com**
-- 📄 Deneyimlerim ve özgeçmişim: [emozdal.com](https://emozdal.com) (yakında)
+- 📄 Deneyimlerim ve özgeçmişim: [emozdal.com](https://emozdal.com)
 - ⚡ Eğlenceli gerçek: **“Hem sınıf öğretmeni hem full-stack geliştirici olmanın garip ama güzel bir dengesi var.”**
 
 <h3 align="left">Kullandığım Araçlar ve Diller:</h3>

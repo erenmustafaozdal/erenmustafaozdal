@@ -69,7 +69,7 @@ https://rahuldkjain.github.io/gh-profile-readme-generator
       </td>
       <td align="center">
         <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql" title="mysql"  />
-        <img src="https://ordba.net/assets/images/topic_image/mariadb-logo1.png" height="40" alt="mariadb" title="mariadb"  />
+        <img src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-logo-vert_blue-transparent-300x245.png" height="40" alt="mariadb" title="mariadb"  />
         <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql" title="postgresql"  />
       </td>
       <td align="center">
